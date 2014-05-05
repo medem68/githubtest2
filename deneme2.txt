@@ -1,3 +1,19 @@
-satir1
-satir2
-satir3x oldu simdi
+//satir1
+//satir2
+//satir2x
+
+//satir3x oldu simdi
+
+
+#include <iostream.h>
+
+using namespace std;
+
+
+void main() {
+
+	
+	cout << "hello world" << endl;
+
+
+}
